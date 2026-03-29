@@ -2,44 +2,44 @@
 
 > A clean and satisfying dark theme for focused coding sessions.
 
-![Preview](images/codejsx.png)
+<p align="center">
+  <img src="images/codejsx.png" width="850" alt="CleanCode Dark Preview" />
+</p>
+
+## ✨ Features
+
+- Clean and minimal dark UI
+- Pleasant and balanced syntax highlighting
+- Reduced visual noise for better focus
+- Great readability for long coding sessions
 
 ## 🎨 Screenshots
 
 ### JavaScript
-![JavaScript](images/codejsx.png)
+<p align="center">
+  <img src="images/codejsx.png" width="850" alt="JavaScript Preview" />
+</p>
 
 ### CSS
-![CSS](images/codestyle.png)
+<p align="center">
+  <img src="images/codestyle.png" width="850" alt="CSS Preview" />
+</p>
 
 ## ⚙️ Installation
 
 1. Open **VS Code**
-2. Go to Extensions (`Ctrl + Shift + X`)
+2. Go to **Extensions** (`Ctrl + Shift + X`)
 3. Search for **CleanCode Dark**
 4. Click **Install**
 5. Press `Ctrl + K Ctrl + T` and select **CleanCode Dark**
 
 ## 🖌️ About
 
-CleanCode Dark is designed to reduce visual noise and keep your focus on what matters — the code.
-
-The palette was carefully chosen to provide:
-- clean contrast
-- pleasant syntax highlighting
-- reduced visual noise
-- a modern and focused coding experience
-
-## ✨ Features
-
-- Clean and minimal dark UI
-- Balanced and satisfying syntax colors
-- Designed for long coding sessions
-- Great readability for multiple languages
+CleanCode Dark was designed to keep your editor visually clean, modern and easy to read — without distracting colors or excessive contrast.
 
 ## 📝 License
 
-This theme is licensed under the [MIT License](LICENSE).
+Licensed under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
