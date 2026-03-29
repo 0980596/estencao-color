@@ -29,11 +29,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/0980596/Extens-o-cor.git"
+    "url": "https://github.com/0980596/estencao-color.git"
   },
-  "homepage": "https://github.com/0980596/Extens-o-cor",
+  "homepage": "https://github.com/0980596/estencao-color",
   "bugs": {
-    "url": "https://github.com/0980596/Extens-o-cor/issues"
+    "url": "https://github.com/0980596/estencao-color/issues"
   },
   "license": "MIT",
   "contributes": {
