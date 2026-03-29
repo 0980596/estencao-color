@@ -1,42 +1,46 @@
-# MIT License
-
-Copyright (c) 2024
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
----
-
 # CleanCode Dark
 
-A clean and satisfying dark theme for focused coding sessions.
+> A clean and satisfying dark theme for focused coding sessions.
 
-## Features
-- Clean dark interface
-- Pleasant syntax highlighting
-- Minimal and modern look
-- Built for focus and readability
+![Preview](images/codejsx.png)
 
-## Installation
-1. Open Extensions in VS Code
-2. Search for **CleanCode Dark**
-3. Click Install
-4. Select the theme in your Color Theme settings
+## 🎨 Screenshots
 
-## Author
-Pedro Amancio
+### JavaScript
+![JavaScript](images/codejsx.png)
+
+### CSS
+![CSS](images/codestyle.png)
+
+## ⚙️ Installation
+
+1. Open **VS Code**
+2. Go to Extensions (`Ctrl + Shift + X`)
+3. Search for **CleanCode Dark**
+4. Click **Install**
+5. Press `Ctrl + K Ctrl + T` and select **CleanCode Dark**
+
+## 🖌️ About
+
+CleanCode Dark is designed to reduce visual noise and keep your focus on what matters — the code.
+
+The palette was carefully chosen to provide:
+- clean contrast
+- pleasant syntax highlighting
+- reduced visual noise
+- a modern and focused coding experience
+
+## ✨ Features
+
+- Clean and minimal dark UI
+- Balanced and satisfying syntax colors
+- Designed for long coding sessions
+- Great readability for multiple languages
+
+## 📝 License
+
+This theme is licensed under the [MIT License](LICENSE).
+
+## 👨‍💻 Author
+
+**Pedro Amancio**
