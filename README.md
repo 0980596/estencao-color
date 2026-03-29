@@ -3,7 +3,7 @@
 > A clean and satisfying dark theme for focused coding sessions.
 
 <p align="center">
-  <img src="images/codejsx.png" width="850" alt="CleanCode Dark Preview" />
+  <img src="images/jsxcode.png" width="850" alt="CleanCode Dark Preview" />
 </p>
 
 ## ✨ Features
@@ -17,12 +17,12 @@
 
 ### JavaScript
 <p align="center">
-  <img src="images/codejsx.png" width="850" alt="JavaScript Preview" />
+  <img src="images/jsxcode.png" width="850" alt="JavaScript Preview" />
 </p>
 
 ### CSS
 <p align="center">
-  <img src="images/codestyle.png" width="850" alt="CSS Preview" />
+  <img src="images/csscode.png" width="850" alt="CSS Preview" />
 </p>
 
 ## ⚙️ Installation
