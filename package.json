@@ -1,0 +1,48 @@
+{
+  "name": "cleancode-dark",
+  "displayName": "CleanCode Dark",
+  "description": "A clean and satisfying dark theme for focused coding sessions.",
+  "version": "0.0.1",
+  "publisher": "pedroamancio",
+  "icon": "images/icon.png",
+  "engines": {
+    "vscode": "^1.110.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "vscode theme",
+    "clean theme",
+    "minimal theme",
+    "dark",
+    "clean",
+    "satisfying",
+    "developer theme",
+    "code theme"
+  ],
+  "galleryBanner": {
+    "color": "#111111",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0980596/Extens-o-cor.git"
+  },
+  "homepage": "https://github.com/0980596/Extens-o-cor",
+  "bugs": {
+    "url": "https://github.com/0980596/Extens-o-cor/issues"
+  },
+  "license": "MIT",
+  "contributes": {
+    "themes": [
+      {
+        "label": "CleanCode Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cleancode-dark-color-theme.json"
+      }
+    ]
+  }
+}
