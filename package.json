@@ -2,7 +2,7 @@
   "name": "cleancode-dark",
   "displayName": "CleanCode Dark",
   "description": "A clean and satisfying dark theme for focused coding sessions.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "pedroamancio",
   "icon": "images/icon.png",
   "engines": {
@@ -42,6 +42,11 @@
         "label": "CleanCode Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/cleancode-dark-color-theme.json"
+      },
+      {
+        "label": "OceanDark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/oceandark-color-theme.json"
       }
     ]
   }
